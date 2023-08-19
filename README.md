@@ -12,7 +12,7 @@ Please visit our [forum](https://forum.clockworkpi.com/) for more information.
 * http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2  
 md5sum 27f85542d0278f898bfca060c264dc6f
 
-## User custom OS image
+## Community OS image
 
 * [Custom D.E.O.T. V2.0+/Clockwork OS v0.5 image](https://forum.clockworkpi.com/t/custom-d-e-o-t-v2-0-clockwork-os-v0-5-image-with-customised-deot-interface-kernel-5-7-optional-1400mhz-oc-debian-10-buster-retroarch-1-9-0-mupen64-plus-more-current-build-200903/5088)
 
