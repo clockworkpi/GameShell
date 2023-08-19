@@ -9,7 +9,7 @@ Please visit our [forum](https://forum.clockworkpi.com/) for more information.
 
 ## OS Image
 
-* http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2
+* http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2  
 md5sum 27f85542d0278f898bfca060c264dc6f
 
 ## User custom OS image
@@ -38,7 +38,7 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 ## launcher code
 
-* [python launcher](https://github.com/clockworkpi/launcher.git)
+* [pygame launcher](https://github.com/clockworkpi/launcher.git)
 * [golang launcher](https://github.com/clockworkpi/LauncherGoDev.git)
 
 
