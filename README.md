@@ -1,12 +1,5 @@
 # GameShell
 
-[ClockworkPi](https://www.clockworkpi.com/) is an open source and open hardware community. 
-
-[GameShell](https://www.clockworkpi.com/) is a modular handheld console that allows you to play & modify retro games and DIY new devices.
-
-Please visit our [forum](https://forum.clockworkpi.com/) for more information.
-
-
 ## OS Image
 
 * http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2  
@@ -19,7 +12,7 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 ## Keypad code
 
-[keypad source code](https://github.com/clockworkpi/Keypad.git)
+* [keypad source code](https://github.com/clockworkpi/Keypad.git)
 
 ## Schematic
 
@@ -28,7 +21,7 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 ## Assembly instructions
 
-[Assembly instructions](https://github.com/clockworkpi/GameShellDocs/blob/master/clockwork_GameShell_Assembly_Guide.pdf)
+* [Assembly instructions](https://github.com/clockworkpi/GameShellDocs/blob/master/clockwork_GameShell_Assembly_Guide.pdf)
 
 
 
@@ -43,3 +36,5 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 
 
+
+Please visit our [forum](https://forum.clockworkpi.com/) for more information
