@@ -12,21 +12,21 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 ## Keypad code
 
-* [keypad source code](https://github.com/clockworkpi/Keypad.git)
+* [keypad source code](Code/Keypad)
 
 ## Schematic
 
-* [Keypad](https://github.com/clockworkpi/GameShellDocs/blob/master/clockwork_Keypad_Schematic.pdf)
-* [Mainboard](https://github.com/clockworkpi/GameShellDocs/blob/master/clockwork_Mainboard_Schematic.pdf)
+* [Keypad](https://github.com/clockworkpi/GameShell/blob/main/clockwork_Keypad_Schematic.pdf)
+* [Mainboard](https://github.com/clockworkpi/GameShell/blob/main/clockwork_Mainboard_Schematic.pdf)
 
 ## Assembly instructions
 
-* [Assembly instructions](https://github.com/clockworkpi/GameShellDocs/blob/master/clockwork_GameShell_Assembly_Guide.pdf)
+* [Assembly instructions](https://github.com/clockworkpi/GameShell/blob/main/clockwork_GameShell_Assembly_Guide.pdf)
 
 
 
 ## Kernel Patch
-* https://github.com/clockworkpi/Kernel
+* [Kernel patch](Code/Kernel)
 
 
 ## launcher code
