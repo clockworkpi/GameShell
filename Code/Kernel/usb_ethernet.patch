@@ -1,0 +1,67 @@
+diff --git a/arch/arm/configs/clockworkpi_cpi3_defconfig b/arch/arm/configs/clockworkpi_cpi3_defconfig
+index 84774c4b..71d0392a 100644
+--- a/arch/arm/configs/clockworkpi_cpi3_defconfig
++++ b/arch/arm/configs/clockworkpi_cpi3_defconfig
+@@ -848,6 +848,7 @@ CONFIG_BLK_DEV=y
+ # CONFIG_ATA_OVER_ETH is not set
+ # CONFIG_BLK_DEV_RBD is not set
+ # CONFIG_NVME_FC is not set
++# CONFIG_NVME_TARGET is not set
+ 
+ #
+ # Misc devices
+@@ -2173,7 +2174,29 @@ CONFIG_USB_GADGET_STORAGE_NUM_BUFFERS=2
+ # CONFIG_USB_NET2272 is not set
+ # CONFIG_USB_GADGET_XILINX is not set
+ # CONFIG_USB_DUMMY_HCD is not set
++CONFIG_USB_LIBCOMPOSITE=y
++CONFIG_USB_U_ETHER=y
++CONFIG_USB_F_ECM=y
++CONFIG_USB_F_SUBSET=y
++CONFIG_USB_F_RNDIS=y
+ # CONFIG_USB_CONFIGFS is not set
++# CONFIG_USB_ZERO is not set
++# CONFIG_USB_AUDIO is not set
++CONFIG_USB_ETH=y
++CONFIG_USB_ETH_RNDIS=y
++# CONFIG_USB_ETH_EEM is not set
++# CONFIG_USB_G_NCM is not set
++# CONFIG_USB_GADGETFS is not set
++# CONFIG_USB_FUNCTIONFS is not set
++# CONFIG_USB_MASS_STORAGE is not set
++# CONFIG_USB_G_SERIAL is not set
++# CONFIG_USB_MIDI_GADGET is not set
++# CONFIG_USB_G_PRINTER is not set
++# CONFIG_USB_CDC_COMPOSITE is not set
++# CONFIG_USB_G_ACM_MS is not set
++# CONFIG_USB_G_MULTI is not set
++# CONFIG_USB_G_HID is not set
++# CONFIG_USB_G_DBGP is not set
+ 
+ #
+ # USB Power Delivery and Type-C drivers
+@@ -2908,6 +2931,7 @@ CONFIG_FS_MBCACHE=y
+ # CONFIG_JFS_FS is not set
+ # CONFIG_XFS_FS is not set
+ # CONFIG_GFS2_FS is not set
++# CONFIG_OCFS2_FS is not set
+ # CONFIG_BTRFS_FS is not set
+ # CONFIG_NILFS2_FS is not set
+ # CONFIG_F2FS_FS is not set
+@@ -2962,7 +2986,7 @@ CONFIG_TMPFS=y
+ # CONFIG_TMPFS_POSIX_ACL is not set
+ # CONFIG_TMPFS_XATTR is not set
+ # CONFIG_HUGETLB_PAGE is not set
+-# CONFIG_CONFIGFS_FS is not set
++CONFIG_CONFIGFS_FS=y
+ # CONFIG_MISC_FILESYSTEMS is not set
+ CONFIG_NETWORK_FILESYSTEMS=y
+ CONFIG_NFS_FS=y
+@@ -3040,6 +3064,7 @@ CONFIG_NLS_ISO8859_1=y
+ # CONFIG_NLS_MAC_ROMANIAN is not set
+ # CONFIG_NLS_MAC_TURKISH is not set
+ # CONFIG_NLS_UTF8 is not set
++# CONFIG_DLM is not set
+ 
+ #
+ # Kernel hacking
