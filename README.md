@@ -11,7 +11,9 @@ md5sum 27f85542d0278f898bfca060c264dc6f
 
 After downloading the files, you will need to extract or decompress them. Please keep in mind that MacOS 11.6 or a higher version is required to extract 7z files.  
 
-To flash the OS image, you can use the following tools:  
+We recommend using an TF card with at least 8GB of storage.
+
+To flash the OS image to TF card, you can use the following tools:  
 
 - For Windows and macOS users, [Etcher](https://etcher.balena.io/) can be used to flash the image.  
 - Linux users can employ the "dd" command to flash the image.  
