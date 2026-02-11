@@ -2,8 +2,16 @@
 
 ## OS Image
 
-* http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2  
-md5sum 27f85542d0278f898bfca060c264dc6f
+| Product  | GameShell |
+|:---|:---:|
+| **Image name** |  clockworkos_v0.5.img.bz2  |  
+| **Release date**| Jan  4  2020 |
+| **System**| 32-bit|
+| **Kernel**| Linux 5.3.6|
+| **Download size** | 1.8G|
+| **Downloads**| [Download](http://dl.clockworkpi.com/clockworkos_v0.5.img.bz2) ([Mirror](https://drive.google.com/file/d/1SA7iAPoyCiuuBmPgjzLme0g1CujPmqoA/view?usp=drive_link)) |
+| **MD5sum** | 27f85542d0278f898bfca060c264dc6f |
+
 
 ## Community OS image
 
